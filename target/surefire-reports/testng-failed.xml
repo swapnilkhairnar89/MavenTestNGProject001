@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.E2EPracticeProject001.DemoWebSite.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="DemoWebsiteRegressionTest(failed)" verbose="0">
+    <classes>
+      <class name="com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest">
+        <methods>
+          <include name="initializeTest"/>
+          <include name="LoginFunctionality"/>
+          <include name="deinitializeTest"/>
+        </methods>
+      </class> <!-- com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest -->
+    </classes>
+  </test> <!-- DemoWebsiteRegressionTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

@@ -2,12 +2,12 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="RegressionSuite">
 	<listeners>
-		<listener class-name="com.E2EPracticeProject001.DemoWebSite.Listeners" />
+		<listener class-name="com.e2eproject001.listeners.TestListeners" />
 	</listeners>
 	<test thread-count="5" name="DemoWebsiteRegressionTest">
 		<classes>
 			<class
-				name="com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest" />
+				name="com.e2eproject001.demosite.LoginFunctionalityTest" />
 		</classes>
 	</test> <!-- DemoWebsiteRegressionTest -->
 </suite> <!-- RegressionSuite -->

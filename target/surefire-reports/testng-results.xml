@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-08T07:10:55Z" name="RegressionSuite" finished-at="2021-01-08T07:11:16Z" duration-ms="21138">
+  <suite started-at="2021-01-08T17:04:55Z" name="RegressionSuite" finished-at="2021-01-08T17:05:20Z" duration-ms="25124">
     <groups>
     </groups>
-    <test started-at="2021-01-08T07:10:55Z" name="DemoWebsiteRegressionTest" finished-at="2021-01-08T07:11:16Z" duration-ms="21138">
-      <class name="com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest">
-        <test-method is-config="true" signature="initializeTest()[pri:0, instance:com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest@669513d8]" started-at="2021-01-08T07:10:55Z" name="initializeTest" finished-at="2021-01-08T07:11:09Z" duration-ms="14330" status="PASS">
+    <test started-at="2021-01-08T17:04:55Z" name="DemoWebsiteRegressionTest" finished-at="2021-01-08T17:05:20Z" duration-ms="25124">
+      <class name="com.e2eproject001.demosite.LoginFunctionalityTest">
+        <test-method is-config="true" signature="initializeTest()[pri:0, instance:com.e2eproject001.demosite.LoginFunctionalityTest@669513d8]" started-at="2021-01-08T17:04:55Z" name="initializeTest" finished-at="2021-01-08T17:05:12Z" duration-ms="16595" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTest -->
-        <test-method signature="LoginFunctionality()[pri:0, instance:com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest@669513d8]" started-at="2021-01-08T07:11:09Z" name="LoginFunctionality" finished-at="2021-01-08T07:11:13Z" duration-ms="3467" status="PASS">
+        <test-method signature="LoginFunctionality()[pri:0, instance:com.e2eproject001.demosite.LoginFunctionalityTest@669513d8]" started-at="2021-01-08T17:05:12Z" name="LoginFunctionality" finished-at="2021-01-08T17:05:18Z" duration-ms="5497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginFunctionality -->
-        <test-method is-config="true" signature="deinitializeTest()[pri:0, instance:com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest@669513d8]" started-at="2021-01-08T07:11:14Z" name="deinitializeTest" finished-at="2021-01-08T07:11:16Z" duration-ms="2228" status="PASS">
+        <test-method is-config="true" signature="deinitializeTest()[pri:0, instance:com.e2eproject001.demosite.LoginFunctionalityTest@669513d8]" started-at="2021-01-08T17:05:18Z" name="deinitializeTest" finished-at="2021-01-08T17:05:20Z" duration-ms="1848" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deinitializeTest -->
-      </class> <!-- com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest -->
+      </class> <!-- com.e2eproject001.demosite.LoginFunctionalityTest -->
     </test> <!-- DemoWebsiteRegressionTest -->
   </suite> <!-- RegressionSuite -->
 </testng-results>
