@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-06T21:20:38 IST" name="Default suite" finished-at="2021-01-06T21:21:27 IST" duration-ms="49480">
+    <groups>
+    </groups>
+    <test started-at="2021-01-06T21:20:38 IST" name="Default test" finished-at="2021-01-06T21:21:27 IST" duration-ms="49480">
+      <class name="com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest">
+        <test-method is-config="true" signature="initializeTest()[pri:0, instance:com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest@65d6b83b]" started-at="2021-01-06T21:20:38 IST" name="initializeTest" finished-at="2021-01-06T21:20:57 IST" duration-ms="19256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method signature="LoginFunctionality()[pri:0, instance:com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest@65d6b83b]" started-at="2021-01-06T21:20:57 IST" name="LoginFunctionality" finished-at="2021-01-06T21:21:27 IST" duration-ms="30164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+      </class> <!-- com.E2EPracticeProject001.DemoWebSite.LoginFunctionalityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
